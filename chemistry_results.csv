@@ -1,0 +1,11 @@
+﻿molecule_name,formula,smiles,predicted_property,predicted_value
+Етанол,C2H6O,CCO,logS,-1.089
+Оцтова кислота,C2H4O2,CC(=O)O,logS,-0.391
+Бензен,C6H6,c1ccccc1,logS,-1.797
+Метанол,CH4O,CO,logS,-0.808
+Метан,CH4,C,logS,-1.095
+Етан,C2H6,CC,logS,-1.088
+Пропан,C3H8,CCC,logS,-1.333
+Ацетон,C3H6O,CC(=O)C,logS,-0.677
+Бутанол,C4H10O,CCCO,logS,-1.075
+Толуен,C7H8,Cc1ccccc1,logS,-1.938
